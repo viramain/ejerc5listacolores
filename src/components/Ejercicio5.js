@@ -1,3 +1,5 @@
+// crea card para ingresar color y mostrarlo en una grilla con una card por cada color ingresado
+
 import React, { Fragment, useState, useEffect } from "react";
 import ListaColores from "./ListaColores";
 
